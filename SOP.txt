@@ -28,7 +28,11 @@ Members -
 -----------------------------------------------------------------------------------
 
 
-5. Naman Mathur
+1. Naman Mathur
     I intend to join and work in the field of finance as this is one of very few subjects where machines can't take over completely
     and without human intervention, things can never function effectively. So I intend to work in the field of finance in future. 
     Hence I would like to join the Finance Group-CEV!
+2. Sawai Singh Rajpurohit
+    It's my firm belief that proper understanding of finance is necessary for everyone.
+    Combining economics with ML to unlock new and better models is what excites me in 
+    this project and that's what I want to learn with my team.
