@@ -32,3 +32,9 @@ Members -
     I intend to join and work in the field of finance as this is one of very few subjects where machines can't take over completely
     and without human intervention, things can never function effectively. So I intend to work in the field of finance in future. 
     Hence I would like to join the Finance Group-CEV!
+
+------------------------------------------------------------------------------------
+
+6. 	Hemant Karanjkar
+      My purpose for joining this group is to learn about global markets and current financial conditions, and to learn various
+      solutions of economy related problems using data science and to grow skills for effective teamwork. 
