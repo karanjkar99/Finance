@@ -28,11 +28,25 @@ Members -
 -----------------------------------------------------------------------------------
 
 
-1. Naman Mathur
+4. Naman Mathur
     I intend to join and work in the field of finance as this is one of very few subjects where machines can't take over completely
     and without human intervention, things can never function effectively. So I intend to work in the field of finance in future. 
     Hence I would like to join the Finance Group-CEV!
-2. Sawai Singh Rajpurohit
+
+-----------------------------------------------------------------------------------
+
+5. Sawai Singh Rajpurohit
     It's my firm belief that proper understanding of finance is necessary for everyone.
     Combining economics with ML to unlock new and better models is what excites me in 
     this project and that's what I want to learn with my team.
+
+-----------------------------------------------------------------------------------
+
+6. SHIVANSH SINGHAL
+
+  I am a Data Science Enthusiast & one of the biggest application of Data Science is in Finance which uses Algorithmic Trading and various Machine Learning algorithms like Linear Regression,Logistic Regression,KNN Algorithm,Decision Tree,Time Series etc to detect frauds,predict the long term and short term investments in shares,serve clients better experience with the firm.By joining this group I want to learn that how these algorithms are applied and works in Finance.
+  I look forward to do whatever it takes to complete the assigned task before deadline & will try to make this subgroup of Student Chapter CEV a recognizable & integral part of SVNIT.As a teammate will try to coordinate with everyone & achieve the goal of the group which is to make everyone grow as an individual and grow the group as well.
+
+-----------------------------------------------------------------------------------
+
+
